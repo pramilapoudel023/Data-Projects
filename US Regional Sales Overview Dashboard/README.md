@@ -5,8 +5,8 @@
 
 ## Problem Statement
 The U.S. Regional Sales Performance Dashboard provides a detailed analysis of sales trends, profitability, and order volumes across different regions and sales channels. The dashboard is designed to help businesses optimize their sales strategies, allocate resources efficiently, and enhance decision-making through data-driven insights.
-Data Source: 
-[US_Regional_Sales_Data](https://www.kaggle.com/datasets/talhabu/us-regional-sales-data)
+## Data Source: 
+  [US_Regional_Sales_Data](https://www.kaggle.com/datasets/talhabu/us-regional-sales-data)
 
 ## Methodology
 1.	Data Collection – Extracted sales data from Kaggle.
