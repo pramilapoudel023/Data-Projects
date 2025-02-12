@@ -52,4 +52,3 @@ Data Source:
   - Tools Used: Power BI, Excel
   - Custom DAX Measures: Calculated KPIs for total sales, profit, and order count.
   - Interactivity: Enabled drill down, slicers, and filtering for better insights.
-![image]()
