@@ -17,18 +17,18 @@ Data Source:
 6.	Publishing – Deployed the dashboard to Power BI Service for accessibility and sharing.
 
 ## Dashboard Overview
-### Sales Performance
+#### Sales Performance
 •	Sales by channel (In-Store, Online, Distributor, Wholesale)
 •	Sales by state and region (West, South, Midwest, Northeast)
 •	Top-performing products and categories
 •	Sales trends over time (2018–2020)
 
-### Profit Analysis
+#### Profit Analysis
 •	Profit by channel, region, and state
 •	Top 10 customers contributing to profit
 •	Profit trends over time
 
-### Order Insights
+#### Order Insights
 •	Orders by channel, state, and region
 •	Top 5 cities by order volume
 •	Top 10 customers by order count
@@ -41,14 +41,14 @@ Data Source:
 5.	Customer Behavior – A small group of top customers accounted for a significant portion of revenue.
 
 ## Stakeholders
-### This dashboard provides valuable insights for:
+#### This dashboard provides valuable insights for:
 •	Sales Managers – Monitor performance by region and adjust strategies.
 •	Marketing Teams – Identify high-growth areas for targeted campaigns.
 •	Business Analysts – Support strategic decision-making with real-time data.
 •	Inventory Managers – Forecast demand and optimize stock levels.
 •	Retail Chains – Evaluate regional sales performance for expansion planning.
 
-### Technical Details
+#### Technical Details
 •	Tools Used: Power BI, Excel
 •	Custom DAX Measures: Calculated KPIs for total sales, profit, and order count.
 •	Interactivity: Enabled drill downs, slicers, and filtering for better insights.
