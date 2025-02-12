@@ -1,7 +1,9 @@
 
-U.S. Regional Sales Performance Dashboard
-Dashboard Link
-Problem Statement
+# U.S. Regional Sales Performance Dashboard
+
+[Dashboard Link](https://app.powerbi.com/groups/f1d37c5e-25da-410a-8643-f27b7bac459b/reports/3c12101c-ebcb-446a-9ec8-88d6f6166090/c885e274eba2e5d5c066?experience=power-bi)
+
+## Problem Statement
 The U.S. Regional Sales Performance Dashboard provides a detailed analysis of sales trends, profitability, and order volumes across different regions and sales channels. The dashboard is designed to help businesses optimize their sales strategies, allocate resources efficiently, and enhance decision-making through data-driven insights.
 Data Source: US_Regional_Sales_Data (Kaggle)
 Methodology
