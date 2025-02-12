@@ -18,20 +18,20 @@ Data Source:
 
 ## Dashboard Overview
 #### Sales Performance
-•	Sales by channel (In-Store, Online, Distributor, Wholesale)
-•	Sales by state and region (West, South, Midwest, Northeast)
-•	Top-performing products and categories
-•	Sales trends over time (2018–2020)
+  - Sales by channel (In-Store, Online, Distributor, Wholesale)
+  - Sales by state and region (West, South, Midwest, Northeast)
+  - Top-performing products and categories
+  - Sales trends over time (2018–2020)
 
 #### Profit Analysis
-•	Profit by channel, region, and state
-•	Top 10 customers contributing to profit
-•	Profit trends over time
+  - Profit by channel, region, and state
+  - Top 10 customers contributing to profit
+  - Profit trends over time
 
 #### Order Insights
-•	Orders by channel, state, and region
-•	Top 5 cities by order volume
-•	Top 10 customers by order count
+  - Orders by channel, state, and region
+  - Top 5 cities by order volume
+  - Top 10 customers by order count
 
 ## Key Insights
 1.	Regional Sales Trends – The West and South regions contributed the highest sales.
@@ -42,14 +42,14 @@ Data Source:
 
 ## Stakeholders
 #### This dashboard provides valuable insights for:
-•	Sales Managers – Monitor performance by region and adjust strategies.
-•	Marketing Teams – Identify high-growth areas for targeted campaigns.
-•	Business Analysts – Support strategic decision-making with real-time data.
-•	Inventory Managers – Forecast demand and optimize stock levels.
-•	Retail Chains – Evaluate regional sales performance for expansion planning.
+  - Sales Managers – Monitor performance by region and adjust strategies.
+  - Marketing Teams – Identify high-growth areas for targeted campaigns.
+  - Business Analysts – Support strategic decision-making with real-time data.
+  - Inventory Managers – Forecast demand and optimize stock levels.
+  - Retail Chains – Evaluate regional sales performance for expansion planning.
 
 #### Technical Details
-•	Tools Used: Power BI, Excel
-•	Custom DAX Measures: Calculated KPIs for total sales, profit, and order count.
-•	Interactivity: Enabled drill downs, slicers, and filtering for better insights.
+  - Tools Used: Power BI, Excel
+  - Custom DAX Measures: Calculated KPIs for total sales, profit, and order count.
+  - Interactivity: Enabled drill down, slicers, and filtering for better insights.
 ![image]()
